@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ExercicioThreadsCoroutines</string>
+    <string name="splash">Splash</string>
+</resources>
